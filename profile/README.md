@@ -29,7 +29,7 @@
     
 - 🍸 조민준
     - hp: 010-8003-6980
-    - git: [jmj3491329@naver.com](mailto:jmj3491329@naver.com)
+    - git: [MJMM3491](https://github.com/Rencal3491)
     - figma: [jmj3491329@naver.com](mailto:jmj3491329@naver.com)
     
 - 🥕 채현영
