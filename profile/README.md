@@ -18,7 +18,7 @@
 - 🦦 김신이 (PL)
     - hp: 010-7745-7309
     - git: [SiNiKin](https://github.com/SiNiKin)
-    - figma: [tlsdl99@gmail.com](mailto:tlsdl99@gmail.com)
+    - figma: [tlsdl99@gmail.com](https://url.kr/4t78tw)
     - naver: tlsdl7745
     
 - 🔮 이소현
