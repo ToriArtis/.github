@@ -23,9 +23,8 @@
     
 - 🔮 이소현
     - hp: 010-2672-5690
-    - git: [aralshyun@naver.com](mailto:aralshyun@naver.com)
-    - figma: [bahh6139@gmail.com](mailto:bahh6139@gmail.com)
-    - naver: aralshyun
+    - git: [LeeSoHyunn](https://github.com/LeeSoHyunn)
+    - figma: [이소현's Team Project](https://www.figma.com/files/team/1240536730777676616/all-projects)
     
 - 🍸 조민준
     - hp: 010-8003-6980
