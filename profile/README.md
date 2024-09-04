@@ -49,6 +49,7 @@
 `Presentation: 조민준`
 - ERD, DB구성, Git issue 관리
 - 컨벤션 규칙 정리
+- 배포 및 ci/cd
 
 `DOCS: 채현영`
 - Notion 템플릿 제공 및 관리
